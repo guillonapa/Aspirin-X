@@ -1,7 +1,16 @@
-# AspirinX
+<div align="center">
+    <img src="public/aspirinx_logo.png" width="30%">
+    <h3>Aspirin X</h3>
+</div>
 
-A web application to seamlessly connect professors, teaching assistants, and students, allowing for an accelerated learning in computer science classes. AspirinX is programming assignments in the cloud. COMING SOON!
+A web application written in Ruby on Rails that allows teachers to create, manage, and grade assignments. Students can use the portal to code and test their soulutions, while teachers can automate grading using unit testing.
 
-Live at: https://aspirinx.herokuapp.com/
+![dashboard](public/dashboard.png)
 
-Deployed with: CodeShip
+## Assignment Creation
+
+![new assignment](public/new-assignment.png)
+
+## Automated Testing
+
+![automated testing](public/automated-testing.png)
